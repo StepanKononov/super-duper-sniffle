@@ -1,0 +1,15 @@
+D:\ITMO_C#\Lab_1\Сasino\bin\Debug\net7.0\Сasino.exe
+D:\ITMO_C#\Lab_1\Сasino\bin\Debug\net7.0\Сasino.deps.json
+D:\ITMO_C#\Lab_1\Сasino\bin\Debug\net7.0\Сasino.runtimeconfig.json
+D:\ITMO_C#\Lab_1\Сasino\bin\Debug\net7.0\Сasino.dll
+D:\ITMO_C#\Lab_1\Сasino\bin\Debug\net7.0\Сasino.pdb
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.csproj.AssemblyReference.cache
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.AssemblyInfoInputs.cache
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.AssemblyInfo.cs
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.csproj.CoreCompileInputs.cache
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.dll
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\refint\Сasino.dll
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.pdb
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\Сasino.genruntimeconfig.cache
+D:\ITMO_C#\Lab_1\Сasino\obj\Debug\net7.0\ref\Сasino.dll

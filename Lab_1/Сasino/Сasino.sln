@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сasino", "Сasino.csproj", "{1BD41097-92C0-4F20-9B8D-A4BB0B4CF900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoTests", "..\CasinoTests\CasinoTests.csproj", "{B22F01CD-7A78-468A-BEE0-D426DAE69D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD41097-92C0-4F20-9B8D-A4BB0B4CF900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD41097-92C0-4F20-9B8D-A4BB0B4CF900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD41097-92C0-4F20-9B8D-A4BB0B4CF900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD41097-92C0-4F20-9B8D-A4BB0B4CF900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22F01CD-7A78-468A-BEE0-D426DAE69D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22F01CD-7A78-468A-BEE0-D426DAE69D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22F01CD-7A78-468A-BEE0-D426DAE69D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22F01CD-7A78-468A-BEE0-D426DAE69D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
